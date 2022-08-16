@@ -17,4 +17,5 @@ idf_component_register(SRC_DIRS src
                                 esp_adc_cal
                                 ulp
                                 nvs_flash
-                                soc)
+                                soc
+                                esp_wifi)
